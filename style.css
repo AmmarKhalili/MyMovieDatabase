@@ -67,20 +67,20 @@
 
 #section{
     margin: 0 auto;
-    width: 80%;
+    width: 86%;
     border-radius: ;
     
     display:grid;
-    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-columns: 20% 20% 20% 20% 20%;
     justify-items: center;
     border: 3px solid gold; 
 }
 #section2{
     margin: 0 auto;
-    width: 80%;
+    width: 86%;
     border:  2px solid gold;
     display:grid;
-    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-columns: 20% 20% 20% 20% 20%;
     justify-items: center;
     border: 3px solid gold; 
     border-radius: 4px;
